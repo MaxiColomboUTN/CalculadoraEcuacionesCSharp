@@ -1,0 +1,28 @@
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\bin\Debug\net7.0\Parcial2C#.exe
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\bin\Debug\net7.0\Parcial2C#.deps.json
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\bin\Debug\net7.0\Parcial2C#.runtimeconfig.json
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\bin\Debug\net7.0\Parcial2C#.dll
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\bin\Debug\net7.0\Parcial2C#.pdb
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\obj\Debug\net7.0\Parcial2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\obj\Debug\net7.0\Parcial2C#.AssemblyInfoInputs.cache
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\obj\Debug\net7.0\Parcial2C#.AssemblyInfo.cs
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\obj\Debug\net7.0\Parcial2C#.csproj.CoreCompileInputs.cache
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\obj\Debug\net7.0\Parcial2C#.dll
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\obj\Debug\net7.0\refint\Parcial2C#.dll
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\obj\Debug\net7.0\Parcial2C#.pdb
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\obj\Debug\net7.0\Parcial2C#.genruntimeconfig.cache
+C:\Users\Maxi-PC\OneDrive\Documentos\TERCER SEMESTRE\Laboratorio lll\Parcial2C#\obj\Debug\net7.0\ref\Parcial2C#.dll
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\bin\Debug\net7.0\Parcial2C#.exe
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\bin\Debug\net7.0\Parcial2C#.deps.json
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\bin\Debug\net7.0\Parcial2C#.runtimeconfig.json
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\bin\Debug\net7.0\Parcial2C#.dll
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\bin\Debug\net7.0\Parcial2C#.pdb
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\obj\Debug\net7.0\Parcial2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\obj\Debug\net7.0\Parcial2C#.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\obj\Debug\net7.0\Parcial2C#.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\obj\Debug\net7.0\Parcial2C#.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\obj\Debug\net7.0\Parcial2C#.dll
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\obj\Debug\net7.0\refint\Parcial2C#.dll
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\obj\Debug\net7.0\Parcial2C#.pdb
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\obj\Debug\net7.0\Parcial2C#.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Parcial2C#ParentesisAgregado\obj\Debug\net7.0\ref\Parcial2C#.dll
